@@ -1,1 +1,1 @@
-# sikkim-game
+[# sikkim-game](https://sikkimgame.store/)
